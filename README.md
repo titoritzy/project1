@@ -4,7 +4,7 @@ _This is the first independent project. It has essential elements and tags used 
 
 ## **Author Name**
 
-_Titus Kithome_
+**Titus Kithome**
 
 ## **Setup Instructions**
 
