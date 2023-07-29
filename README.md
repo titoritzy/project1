@@ -18,6 +18,8 @@ Make the page as visually appealing as you can with the knowledge you have learn
 
 ## **Live site link**
 
+https://github.com/titoritzy/project1.git
+
 
 
 ## **License**
